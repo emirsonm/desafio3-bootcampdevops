@@ -15,4 +15,4 @@ Si no entiendes algún concepto o parte del problema, ¡no hay de qué preocupar
 
 Comprométase en el camino para que podamos entender su forma de pensar!! :)
  
-  
+Revision 1.0  
