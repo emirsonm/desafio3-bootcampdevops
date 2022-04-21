@@ -1,8 +1,12 @@
 FROM node:15
 
-WORKDIR /usr/src/app
+COPY package.json /usr/src/app/
 
-COPY . .
+WORKDIR /usr/src/appo
+
+RUN cd /usr/src/app; npm install
+
+COPY . /usr/src/app/
 
 RUN apt-get update && apt-get install -y wget
 
