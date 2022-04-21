@@ -21,4 +21,4 @@
 
 5 Se agrega el puerto 3000 al archivo nginx.conf
 
-![Resultado en el navegador](image/desafio3.png)
+![Resultado en el navegador](images/desafio3.png)
