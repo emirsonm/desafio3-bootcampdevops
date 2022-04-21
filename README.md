@@ -1,8 +1,6 @@
 # Desafio Devops
 
-## Solucion en el siguiente enlace:
-
-[Solucion al Desafio:](https://github.com/emirsonm/desafio3-bootcampdevops/blob/master/DESAFIO.MD)
+#### Solucion en el siguiente enlace: [DESAFIO.md](https://github.com/emirsonm/desafio3-bootcampdevops/blob/master/DESAFIO.MD)
 
 El proyecto contiene una aplicación básica con Node, Ngnix y MySQL.
 
